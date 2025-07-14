@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "4ed4394aaef1ecc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "12123a69d04c4262",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc5a10716551d9cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Andrej Karpathy - Software Is Changing (Again).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Andrej Karpathy - Software Is Changing (Again)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "26a791738d5ce6f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "422b9bd05a7e4cf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ab67580f6ffda12",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ec0abbc68f789e54",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ef172fd43215d6db",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "61840e3a999f2f0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4be14a5a87a29449",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e75bd45cad0a73b7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Welcome"
+            }
+          },
+          {
+            "id": "44452f2b6cf5b19c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Welcome"
+            }
+          },
+          {
+            "id": "28e627a7fa4c9278",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b5d189df9846e483",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3ab67580f6ffda12",
+  "lastOpenFiles": [
+    "_config.yml.save",
+    "_config.yml",
+    "ZZTemp.md",
+    "Programming/Andrej Karpathy - Software Is Changing (Again).md",
+    "GraphXR/SightXR.md",
+    "GraphXR/SeekerXR.md",
+    "GraphXR/GraphXR improvement ideas.md",
+    "GraphXR/GraphXR Notes.md",
+    "Programming/Data Visualization Competition.md",
+    "Programming/BAML.md",
+    "Programming/Git - A Quick Guide.md",
+    "Storytelling/PIX.md",
+    "Glossary.md",
+    "Test.md",
+    "Unraveling the Pix Heist.md",
+    "To do.md",
+    "Obsidian Enveloppe.md",
+    "Regulations.md",
+    "Programming/Observablehq.md",
+    "Storytelling/NLI Script.md",
+    "Storytelling/Script Social Media.md",
+    "Storytelling/Script Storytelling.md",
+    "General Notes.md",
+    "GraphXR",
+    "Images/Pasted image 20250706200742.png",
+    "().md",
+    "Git Workflow.canvas",
+    "Programming/Javascript.md",
+    "Images/Pasted image 20250701211341.png",
+    "Images/Pasted image 20250623232140.png",
+    "Images/Pasted image 20250623224452.png",
+    "Images/Pasted image 20250623222351.png",
+    "2025-06-23.md",
+    "Untitled 1.canvas",
+    "Programming/JavaScript The Good Parts.md",
+    "Images/Pasted image 20250623213814.png",
+    "Images/Pasted image 20250623212911.png",
+    "Images/Pasted image 20250623204237.png",
+    "Images/Screenshot 2025-06-23 at 8.33.51 PM.png",
+    "Images/Screenshot 2025-06-23 at 8.35.08 PM.png",
+    "Programming",
+    "Storytelling",
+    "Images"
+  ]
+}
