@@ -33,3 +33,15 @@
 7/13/2025, 9:28:28 PM [info]: 
 	You are not rate limited. You can make 4999 requests before the limit is reset at 9:53:00 PM.
 
+7/13/2025, 9:35:38 PM [debug]: 
+	migrating token
+
+7/13/2025, 9:35:38 PM [debug]: 
+	Moving the GitHub Token in the file : .obsidian/plugins/obsidian-mkdocs-publisher/env for default repository
+
+7/13/2025, 9:35:46 PM [info]: 
+	You are not rate limited. You can make 4999 requests before the limit is reset at 9:53:00 PM.
+
+7/13/2025, 9:38:26 PM [info]: 
+	You are not rate limited. You can make 4999 requests before the limit is reset at 9:53:00 PM.
+
