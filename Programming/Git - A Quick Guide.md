@@ -1,3 +1,7 @@
+---
+share: true
+---
+
 # What is Git?
 The most widely used [[Glossary#Version control system|version control system]] in the world. It tracks changes, enables collaboration, and helps manage project history.
 

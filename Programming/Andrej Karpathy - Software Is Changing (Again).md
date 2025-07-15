@@ -1,6 +1,8 @@
----
+- - -
 share: true
----
+- - -
+
+
 [Link to the video](https://www.youtube.com/watch?v=LCEmiRjPEtQ)
 # Part 1 - Summary
 - Software 1.0: Human programmers writing explicit, line-by-line code. Everything is written and crafted manually;
